@@ -1,3 +1,14 @@
 git and github
 hello
 commands
+git 
+git init
+git config  --global user.name 'urname'
+git config --global user.email 'urname@email.com'
+git clone 'copied path'
+go to the required directory
+vim file1 #your own file name 
+esc + shift ; wq # saving the file
+git add . file1
+git commit -main
+git push origin main
